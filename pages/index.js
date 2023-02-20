@@ -10,7 +10,7 @@ import {
 } from "../constants";
 import styles from "../styles/Home.module.css";
 
-export default function home() {
+export default function Home() {
   // Create a BigNumber '0'
   const zero = BigNumber.from(0);
   // walletConnected keeps track of whether the user's wallet is connected or not
