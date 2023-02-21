@@ -4,8 +4,6 @@ I build a ICO where you can buy our Crypto Devs Token.
 
 ICO Dapp: https://ico-front-bice.vercel.app/
 
-ICO SmartContracts: https://github.com/serranomatias/hardhat-contracts-ICO
-
 ### CryptoDevsToken:
 - Contract Address: 0x6a82A4767628084c3a7841c97BD4cdc1e356c313
 - SmartContract: https://github.com/serranomatias/hardhat-contracts-ICO
